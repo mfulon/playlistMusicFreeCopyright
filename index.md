@@ -1,10 +1,12 @@
 <html>
+	<head>
 	<style>
 		body{
 		background-color: #159957;
 background-image: linear-gradient(120deg, #155799, #159957);
 		}
 		</style>
+	</head>
 	<div class="">
 	</div>
 	<h3>Music provided by NoCopyrightSounds.</h3>
