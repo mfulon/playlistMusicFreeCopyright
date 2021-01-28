@@ -1,6 +1,6 @@
 <html>
 <div id="player"></div>
-
+<scrip>
 var playlistId = "PLRBp0Fe2GpgmsW46rJyudVFlY6IYjFBIK";
 var tag = document.createElement('script');
 tag.src = "https://www.youtube.com/iframe_api";
@@ -16,9 +16,9 @@ function onYouTubeIframeAPIReady() {
 		height: '179',
 		width: '300',
 		playerVars: {
-			autoplay: 0,
+			autoplay: 1,
 			mute: 0,
-			showinfo: 0,
+			showinfo: 1,
 			modestbranding: 1
 		},
 		events: {
@@ -59,4 +59,5 @@ function onPlayerStateChange(event) {
 		}
 	}
 }
+	</script>
 </html>
