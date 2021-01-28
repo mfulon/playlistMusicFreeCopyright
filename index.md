@@ -1,4 +1,7 @@
 <html>
+	<h3>Music provided by NoCopyrightSounds.</h3>
+	<hr>
+	<h6>Watch: https://youtu.be/lG6HVrrXup8</h6>
 <div id="player"></div>
 <script>
 var playlistId = "PLRBp0Fe2GpgmsW46rJyudVFlY6IYjFBIK";
