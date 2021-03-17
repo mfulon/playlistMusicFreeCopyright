@@ -13,11 +13,11 @@ background-image: linear-gradient(120deg, #155799, #159957);
     text-decoration: none;
 		</style>
 	</head>
-	<div class="container-lg px-3 my-5 markdown-body">
+	<!--//<div class="container-lg px-3 my-5 markdown-body">
       
       <h1><a href="https://mfulon.github.io/playlistMusicFreeCopyright/">playlistMusicFreeCopyright</a></h1>
       
-</div>
+</div>//-->
 	<div class="title">
 	<h3>Music provided by NoCopyrightSounds.</h3>
 	</div>
