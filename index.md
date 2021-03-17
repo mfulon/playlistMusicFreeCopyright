@@ -5,8 +5,8 @@
 		background-color: #159957;
 background-image: linear-gradient(120deg, #155799, #159957);
 		}
-		.title .h3 {
-		color:rgba(255, 18, 18, 1);
+		.title .h3 .h6{
+		color:rgba(133, 133, 158, 1);
 		}
 		</style>
 	</head>
