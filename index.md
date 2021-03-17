@@ -16,7 +16,9 @@ background-image: linear-gradient(120deg, #155799, #159957);
 	<h3>Music provided by NoCopyrightSounds.</h3>
 	</div>
 	<hr>
+	<div class="title">
 	<h6>Watch: https://youtu.be/lG6HVrrXup8</h6>
+	</div>
 <div id="player"></div>
 <script>
 var playlistId = "PLRBp0Fe2GpgmsW46rJyudVFlY6IYjFBIK";
