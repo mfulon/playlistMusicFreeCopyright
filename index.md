@@ -5,14 +5,14 @@
 		background-color: #159957;
 background-image: linear-gradient(120deg, #155799, #159957);
 		}
-		title{
+		.title{
 		color:#500000;
 		}
 		</style>
 	</head>
 	<div class="">
 	</div>
-	<div class:"title">
+	<div class="title">
 	<h3>Music provided by NoCopyrightSounds.</h3>
 	</div>
 	<hr>
