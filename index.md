@@ -5,11 +5,14 @@
 		background-color: #159957;
 background-image: linear-gradient(120deg, #155799, #159957);
 		}
+		h3.title{
+		color:#c5c5c5;
+		}
 		</style>
 	</head>
 	<div class="">
 	</div>
-	<h3>Music provided by NoCopyrightSounds.</h3>
+	<h3 class:"title">Music provided by NoCopyrightSounds.</h3>
 	<hr>
 	<h6>Watch: https://youtu.be/lG6HVrrXup8</h6>
 <div id="player"></div>
