@@ -12,7 +12,9 @@ background-image: linear-gradient(120deg, #155799, #159957);
 	</head>
 	<div class="">
 	</div>
-	<h3 class:"title">Music provided by NoCopyrightSounds.</h3>
+	<div class:"title">
+	<h3>Music provided by NoCopyrightSounds.</h3>
+	</div>
 	<hr>
 	<h6>Watch: https://youtu.be/lG6HVrrXup8</h6>
 <div id="player"></div>
