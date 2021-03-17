@@ -9,7 +9,7 @@ background-image: linear-gradient(120deg, #155799, #159957);
 		color:rgba(133, 133, 158, 1);
 		}
 		a {
-    color: #eb2a3a;
+    color: #c5c5c5;
     text-decoration: none;
 		</style>
 	</head>
