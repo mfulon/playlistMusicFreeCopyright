@@ -8,11 +8,14 @@ background-image: linear-gradient(120deg, #155799, #159957);
 		.title .h1 .h3 .h6{
 		color:rgba(133, 133, 158, 1);
 		}
+		a {
+    color: #eb2a3a;
+    text-decoration: none;
 		</style>
 	</head>
 	<div class="container-lg px-3 my-5 markdown-body">
       
-      <h1 style:color="#eee000;"><a href="https://mfulon.github.io/playlistMusicFreeCopyright/">playlistMusicFreeCopyright</a></h1>
+      <h1><a href="https://mfulon.github.io/playlistMusicFreeCopyright/">playlistMusicFreeCopyright</a></h1>
       
 </div>
 	<div class="title">
