@@ -5,12 +5,12 @@
 		background-color: #159957;
 background-image: linear-gradient(120deg, #155799, #159957);
 		}
-		.title .h3 .h6{
+		.title .h1 .h3 .h6{
 		color:rgba(133, 133, 158, 1);
 		}
 		</style>
 	</head>
-	<div class="">
+	<div class="title">
 	<h1><a href="https://mfulon.github.io/playlistMusicFreeCopyright/">playlistMusicFreeCopyright</a></h1>
 	</div>
 	<div class="title">
